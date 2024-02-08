@@ -19,7 +19,7 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/10220.jpg";
 
 const imageAltText = "desktop with books and laptop";
 
@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "My First Portfolio Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "First Portfolio Project",
+    url: "https://github.com/CaptainShaqX/Portfolio-B",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Intro to Git and Github",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Getting started with Git and GitHub. This is a great way to learn the basics of Git and GitHub.",
+    url: "https://medium.com/@bhaweshchoudhary/git-and-github-a-comprehensive-guide-5f1063a0fba7",
   },
   {
-    title: "My Resume Site",
+    title: "Flutter for Beginners",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Helpful for those starting up with Flutter.",
+    url: "https://medium.com/@bhaweshchoudhary/say-a-hi-to-flutter-799c601a4234",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Dev-Card",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Find yout fellow Github mates here.",
+    url: "https://captainshaqx.github.io/Github-DevCard/",
   },
 ];
 
